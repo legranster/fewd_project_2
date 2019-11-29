@@ -44,6 +44,11 @@ footer {
     border-radius: 10px;
 }
 
+.headline {
+    width: 100%;
+    margin: 0 auto;
+}
+
 nav a,
 h2,
 h4 {
@@ -192,7 +197,8 @@ p {
         float: right;
         margin-top: 2em;
     }
-    .headline {
+    .headline,
+    .bio {
         width: 90%;
         margin: 0 auto;
     }
